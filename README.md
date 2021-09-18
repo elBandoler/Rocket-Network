@@ -33,7 +33,7 @@ I learned *a lot* by making it.<br>
 - It requires WinPCap to function.<br>
 - It uses WinForms. WinForms are just yuck. I love them though. 🤷‍♂️<br>
 - There's `NetworkSimulator.cs` which should replace `PacketFaker` in the future. That future never arrived.<br>
-- RNAU gets the update data and files from my server, which can go down at some point.
+- RNAU gets the update data and files from a server that no longer exists. RocketNetwork checks for updates from the same server.
 
 # Future Plans
 There are no future plans for **Rocket Network** currently.<br>
