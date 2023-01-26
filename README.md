@@ -8,8 +8,8 @@ At the same time, when playing in local servers, they could get 10ms pings.<br>
 We all just wanted to play a private match with normal latency, and Rocket League has a LAN Match option...<br>
 
 # How did you make it?
-Analyzed their packets, while finding someone who already did the exact same thing in a small piece of code.<br>
-Then, I took their code and improved it by updating it to the latest protocol.<br>
+Analyzed their packets, while finding someone who already did a similar thing in a small piece of code.<br>
+Then, I took their code and improved it by updating it to the latest protocol and adding a UI around it.<br>
 After a few weeks I rewrote that part of the code, keeping most of the important things in it intact.<br>
 
 # Is it legal?
